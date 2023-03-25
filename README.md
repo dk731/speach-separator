@@ -1,2 +1,3 @@
 # WORK IN PROGRESS...
 
+- `rec/` has all recorded traning samples

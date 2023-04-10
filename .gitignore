@@ -1,3 +1,9 @@
 rec
 .env
 data
+exp
+
+steps
+utils
+sid
+xvector

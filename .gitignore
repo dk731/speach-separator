@@ -8,3 +8,4 @@ utils
 sid
 xvector
 logs
+wandb
